@@ -10,7 +10,7 @@ cards:
     audio: /assets/audio/episode1.mp4
   - title: Second Episode
     author: 664 Student
-    thumbnail: /assets/images/second.jpg
+    thumbnail: /assets/images/Cleve-van_construction-tower-babel.jpg
     summary: Second podcast summary.
     audio: /assets/audio/episode2.mp4
 
