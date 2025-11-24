@@ -3,15 +3,15 @@ title: Historiography Podcasts
 layout: base
 date: 2025-11-24
 cards: 
-  - title: My First Podcast
+  - title: First Podcast
     author: 664 Student
     thumbnail: /assets/images/Johann.jpg
-    summary: This is my first episode summary. Delicious!
+    summary: One or two sentences of summary and the names of the host(s).
     audio: /assets/audio/episode1.mp4
-  - title: Second Episode
+  - title: Second Podcast
     author: 664 Student
     thumbnail: /assets/images/Cleve-van_construction-tower-babel.jpg
-    summary: Second podcast summary.
+    summary: One or two sentences of summary and the names of the host(s).
     audio: /assets/audio/episode2.mp4
 
 ---
