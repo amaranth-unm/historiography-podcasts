@@ -20,18 +20,29 @@ PAGE SETUP
   --brown: #925737;
   --bone: #F5EFE6;
   --dark: #1b0b02;
+  --deep-navy: #2D3C58; /* Dark blue tones for background */
+  --muted-beige: #D8C8A1; /* Soft beige for light areas */
+  --rich-taupe: #7A6E56; /* Warm brown for text elements */
+  --soft-rose: #E3A79B; /* Soft rose accents */
+  --dusty-olive: #B6B87A; /* Dusty olive green for highlights */
+  --muted-sky: #6A7E9E; /* Muted light blue for secondary text */
+  --ivory-cream: #F2E9D7; /* Light ivory for borders and light sections */
+
 
   /* Background colors */
   --bg-primary: var(--bone);
-  --bg-secondary: var(--sand);
-  --bg-secondary-light: var(--sand-light);
+  --bg-secondary: var(--rich-taupe);
+  --bg-secondary-light: var(--dusty-olive);
   --bg-tertiary: var(--dark);
   --bg-accent: var(--clay);
 
+  /* Navbar brand color */
+  --bs-navbar-brand-color: var(--muted-sky) !important;
+
   /* Text colors */
-  --text-primary: #3a1602;
+  --text-primary: #2D3C58;
   --text-secondary: #413b31;
-  --text-tertiary: var(--sand);
+  --text-tertiary: var(--soft-rose);
   --text-accent: var(--clay);
   --text-link: var(--clay);
   --text-muted: #666;
