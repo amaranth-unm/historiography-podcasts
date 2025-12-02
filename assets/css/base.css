@@ -33,18 +33,21 @@ PAGE SETUP
   --bg-primary: var(--bone);
   --bg-secondary: var(--rich-taupe);
   --bg-secondary-light: var(--dusty-olive);
-  --bg-tertiary: var(--dark);
+  --bg-tertiary: var(--dusty-olive);
   --bg-accent: var(--clay);
 
   /* Navbar brand color */
   --bs-navbar-brand-color: var(--muted-sky) !important;
+  --navbar-brand-hover-color: var(--soft-rose) !important;
+  --navbar-brand-active-color: var(--muted-sky) !important;
+  --navbar-brand-focus-color: var(--muted-sky) !important;
 
   /* Text colors */
   --text-primary: #2D3C58;
   --text-secondary: #413b31;
   --text-tertiary: var(--soft-rose);
-  --text-accent: var(--clay);
-  --text-link: var(--clay);
+  --text-accent: var(--muted-sky);
+  --text-link: var(--muted-sky);
   --text-muted: #666;
 
   /* Border colors */
