@@ -32,7 +32,7 @@ PAGE SETUP
   /* Background colors */
   --bg-primary: var(--bone);
   --bg-secondary: var(--rich-taupe);
-  --bg-secondary-light: var(--dusty-olive);
+  --bg-secondary-light: var(--muted-sky);
   --bg-tertiary: var(--muted-sky);
   --bg-accent: var(--clay);
 
@@ -43,7 +43,7 @@ PAGE SETUP
   --navbar-brand-focus-color: var(--muted-sky) !important;
 
   /* Text colors */
-  --text-primary: #2D3C58;
+  --text-primary: var(--clay);
   --text-secondary: #413b31;
   --text-tertiary: var(--deep-navy);
   --text-accent: var(--muted-sky);
