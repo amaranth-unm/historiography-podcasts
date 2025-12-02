@@ -33,7 +33,7 @@ PAGE SETUP
   --bg-primary: var(--bone);
   --bg-secondary: var(--rich-taupe);
   --bg-secondary-light: var(--dusty-olive);
-  --bg-tertiary: var(--dusty-olive);
+  --bg-tertiary: var(--muted-sky);
   --bg-accent: var(--clay);
 
   /* Navbar brand color */
@@ -45,7 +45,7 @@ PAGE SETUP
   /* Text colors */
   --text-primary: #2D3C58;
   --text-secondary: #413b31;
-  --text-tertiary: var(--soft-rose);
+  --text-tertiary: var(--deep-navy);
   --text-accent: var(--muted-sky);
   --text-link: var(--muted-sky);
   --text-muted: #666;
