@@ -4,7 +4,7 @@ layout: base
 date: 2025-11-24
 cards: 
   - title: The Historical Construction of the Manchurian Plague (1910-1911)
-    author: 664 Student
+    author: Jian Meng
     thumbnail: /assets/images/jian-manchurian-plague.jpeg
     summary: This podcast talks about the historical construction of the Manchurian Plague (1910-1911). First, Jian Meng provides a common narrative of it, which is the story of heroism, “Plague Fighter” Dr. Wu-Lieh Teh. Then, Jian uses the metaphor of “detective story” and gives five small stories based on different sides. Finally, Jian reflects on the process of constructing the narrative. This podcast is important for us to understand how historians construct different aspects of historical events.
     audio: /assets/audio/jian-manchurian-plague.mp3
