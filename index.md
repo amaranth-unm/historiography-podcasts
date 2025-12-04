@@ -13,11 +13,11 @@ cards:
     thumbnail: /assets/images/janet-chumash-tomol.jpg
     summary: In 'Chumash Histories – Then and Now,' Janet Bridgers reviews the varying ways in which the histories of the Chumash, the indigenous people of the central coast of California, have been 'recorded'—in the soil, by the Spanish, by anthropologists and archeologists and now, by the people themselves. 
     audio: /assets/audio/janet-chumash.mp3
-  - title: Third Podcast
-    author: 664 Student
-    thumbnail: /assets/images/Johann.jpg
-    summary: One or two sentences of summary and the names of the host(s).
-    audio: /assets/audio/episode3.mp4
+  - title: Historiography of the Medieval Medicine and the Crusades
+    author: Madeline Mallindine and Jett Davis
+    thumbnail: /assets/images/jett-madeline.jpg
+    summary: Madeline Mallindine and Jett Davis present their listeners with an intriguing conversation covering the historiographies of medieval medicine and the Crusades. Join them as they trace the changes in Crusade historiography over the 20th century to modern day and the intricacies of medieval medical historiographies and it’s silences.  
+    audio: /assets/audio/jett-madeline.mp3
   - title: Fourth Podcast
     author: 664 Student
     thumbnail: /assets/images/Cleve-van_construction-tower-babel.jpg
