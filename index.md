@@ -33,17 +33,26 @@ cards:
     thumbnail: /assets/images/allie-love.jpg
     summary: Allie Love explores the growth and changes in scholarship on women and medical madness in 19th century America. 
     audio: /assets/audio/allie-love.mp4
-  - title: Seventh Podcast
-    author: 664 Student
-    thumbnail: /assets/images/Johann.jpg
-    summary: One or two sentences of summary and the names of the host(s).
-    audio: /assets/audio/episode7.mp4
+  - title: The Historiography of the Nuremberg Trials
+    author: Carlos Moya
+    thumbnail: /assets/images/moya.jpg
+    summary: In this podcast, Carlos Moya looks at the political interpretations of the Nuremberg Trials. Carlos examines how historians have articulated their arguments and assesses the consequences the trial has had on civilization, as well as potential criticisms of the Nuremberg Trials' legacy. 
+    audio: /assets/audio/moya.mp3
   - title: Eighth Podcast
     author: 664 Student
     thumbnail: /assets/images/Cleve-van_construction-tower-babel.jpg
     summary: One or two sentences of summary and the names of the host(s).
     audio: /assets/audio/episode8.mp4
-
+  - title: Ninth Podcast
+    author: 664 Student
+    thumbnail: /assets/images/Johann.jpg
+    summary: One or two sentences of summary and the names of the host(s).
+    audio: /assets/audio/episode7.mp4
+  - title: Tenth Podcast
+    author: 664 Student
+    thumbnail: /assets/images/Cleve-van_construction-tower-babel.jpg
+    summary: One or two sentences of summary and the names of the host(s).
+    audio: /assets/audio/episode8.mp4
 
 
 
