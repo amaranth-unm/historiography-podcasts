@@ -38,7 +38,7 @@ cards:
     thumbnail: /assets/images/moya.jpg
     summary: In this podcast, Carlos Moya looks at the political interpretations of the Nuremberg Trials. Carlos examines how historians have articulated their arguments and assesses the consequences the trial has had on civilization, as well as potential criticisms of the Nuremberg Trials' legacy. 
     audio: /assets/audio/moya.mp3
-  - title: Eighth Podcast
+  - title: Voices of Black Women in Brazilian History
     author: Jessica Pereira
     thumbnail: /assets/images/pereira.jpeg
     summary: This podcast, hosted by PhD student Jéssica Pereira, aims to rewrite the history of Brazil by centering the voices, experiences, and books of Afro-Brazilian women. The first episode features the book 'Child of the Dark, The Diary of Carolina Maria De Jesus' (1960), showing how the Brazilian intellectual, Carolina Maria de Jesus (1914-1977), transforms her memory into historical archive. 
