@@ -20,7 +20,7 @@ cards:
     audio: /assets/audio/jett-madeline.mp3
   - title: Addressing Silences in U.S. Women's History on the Historiography of Childbirth Practices in New Mexico and Arizona
     author: Selah Cantwell
-    thumbnail: /assets/images/cantwell.png
+    thumbnail: /assets/images/cantwell2.jpg
     summary: Host Selah Cantwell explores an often unaddressed, niche topic within U.S. history, the historiography of childbirth practices in early to mid-twentieth century New Mexico and Arizona! Scholars within the field of Southwest studies (historians, sociologists, anthropologists, scholars of Native American studies, Certified Nurse-Midwives, and more) began addressing this critical topic in the 1960s, and since, the field has developed into an interdisciplinary, impactful, and fascinating specialty that illustrates both the stories of doctors, nurses, midwives, and parteras, who were traditional midwives within many Hispanic and Mexican American communities across New Mexico and Arizona, while also providing insight into some of the most intimate, spiritual, and important moments in the lives of twentieth century women in New Mexico and Arizona from a variety of scholarly perspectives. 
     audio: /assets/audio/cantwell.mp3
   - title: Death, Decay, and Dreaded Doom
