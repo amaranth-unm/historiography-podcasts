@@ -43,18 +43,11 @@ cards:
     thumbnail: /assets/images/pereira.jpeg
     summary: This podcast, hosted by PhD student Jéssica Pereira, aims to rewrite the history of Brazil by centering the voices, experiences, and books of Afro-Brazilian women. The first episode features the book 'Child of the Dark, The Diary of Carolina Maria De Jesus' (1960), showing how the Brazilian intellectual, Carolina Maria de Jesus (1914-1977), transforms her memory into historical archive. 
     audio: /assets/audio/pereira.mp3
-  - title: Ninth Podcast
-    author: 664 Student
-    thumbnail: /assets/images/Johann.jpg
-    summary: One or two sentences of summary and the names of the host(s).
-    audio: /assets/audio/episode7.mp4
-  - title: Tenth Podcast
-    author: 664 Student
-    thumbnail: /assets/images/Cleve-van_construction-tower-babel.jpg
-    summary: One or two sentences of summary and the names of the host(s).
-    audio: /assets/audio/episode8.mp4
-
-
+  - title: Puerto Rican Nationalism
+    author: Leilani Torres
+    thumbnail: /assets/images/torres.jpg
+    summary: Leilani Torres takes you on an adventure through the scholarship surrounding Puerto Rican Identity and Nationalism.
+    audio: /assets/audio/torres.mp3
 
 
 
